@@ -44,6 +44,7 @@ Obesity 1.Yes, 2.No.
 
 Class 1.Positive, 2.Negative.
 
+Access the dataset using this link : https://www.kaggle.com/datasets/ishandutta/early-stage-diabetes-risk-prediction-dataset
 
 ### Data Preprocessing: 
 The dataset is preprocessed to transform categorical variables into a numerical format, ensuring compatibility with machine learning algorithms.
