@@ -55,4 +55,16 @@ The model's performance is assessed using metrics such as accuracy, precision, r
 ### Deployment: 
 The final trained model is deployed within a Gradio interface.
 
+
+#### Contributing
+Contributions to the project are welcome! Feel free to submit pull requests, suggest improvements, or report any issues you encounter.
+
+
+### Contact Information
+For questions or collaboration opportunities, please contact [Nana Amoah](mailto:nanaamoah776@gmail.com).
+
+### Acknowledgements
+Special thanks to [kaggle.com] for providing the dataset used in this project.
+
+
 The final deployed model can be accessed via the following link: https://huggingface.co/spaces/amissah1/diabetes_model
